@@ -314,8 +314,7 @@ _ตำนวนต้นกำเนิดคนเกาหลี : คนเ�
 
 > _โหเห๊ง_ 
 
-<img src= "https://i1.wp.com/www.hisour.com/wp-content/uploads/2018/04/Obangsaek.jpg?fit=960%2C640&ssl=1" width = "350">
-<img src= https://www.gastrotourseoul.com/wp-content/uploads/2016/01/g7VSyM.png width = "374">
+<img src= "https://i1.wp.com/www.hisour.com/wp-content/uploads/2018/04/Obangsaek.jpg?fit=960%2C640&ssl=1" width = "400">
 
 - #### 5 ธาตุ
     - แทนด้วย 5 สี
